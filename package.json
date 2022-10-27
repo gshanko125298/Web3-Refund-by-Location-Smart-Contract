@@ -1,0 +1,22 @@
+{
+  "name": "web3-refund-by-location-smart-contract",
+  "version": "1.0.0",
+  "description": "The refund by location smart contract is aimed to be used when one party,The employee’s phone sends its GPS location to a smart contract at a certain interval. Based on the pre-agreed contract codified in an Ethereum smart contract, a cryptocurrency payment is executed when all the agreed conditions are met.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gshanko125298/Web3-Refund-by-Location-Smart-Contract.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gshanko125298/Web3-Refund-by-Location-Smart-Contract/issues"
+  },
+  "homepage": "https://github.com/gshanko125298/Web3-Refund-by-Location-Smart-Contract#readme",
+  "devDependencies": {
+    "hardhat": "^2.12.0"
+  }
+}
