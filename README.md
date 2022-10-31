@@ -1,11 +1,12 @@
 # Web3-Refund-by-Location-Smart-Contract
 
 The refund by location smart contract is aimed to be used when one party,The employee’s phone sends its GPS location to a smart contract at a certain interval. Based on the pre-agreed contract codified in an Ethereum smart contract, a cryptocurrency payment is executed when all the agreed conditions are met.
-image
+image ![image](https://user-images.githubusercontent.com/43541659/199127251-548f9e43-7c4a-44a1-ac42-d9788de2dde5.png)
+
 # Web3
 
 Web3 contracts, also known as smart contracts, are crucial in today’s blockchain ecosystem. They enable users to interact online via the blockchain and the many dapps in the Web3 realm. Further, they set the conditions for decentralized transactions without needing a centralized third-party authority for verification. In other words, Web3 contracts govern the rules of any Web3 agreement. Given the importance of Web3 contracts, any aspiring blockchain developer or current Web3 user should understand these vital elements of the crypto realm in greater depth.
-# Writing Web3 Contracts
+# Writing Web3 Smart Contracts
 
 Do you have enough skill, or are you utilizing the proper Web3 tech stack to write smart contracts? To get started in blockchain development, you mainly need two programming languages: JavaScript and Solidity. Apart from these, you’ll need layers of programmable blockchains, nodes and node providers, development platforms, and APIs.
 
