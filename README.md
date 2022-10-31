@@ -19,3 +19,14 @@ However, things are not as complicated as they seem. Even if you don’t know ho
 The space is innovating fast, and new ways to write and create Web3 contracts are emerging alongside new blockchains. Fortunately, Moralis allows greater flexibility by being cross-chain compatible from the start. As such, you can build cross-chain dapps that are instantly compatible with multiple Web3 blockchains using Moralis.
 
 Powerful Web3 development platforms like Moralis can simplify your Web3 contract writing process. With Moralis, you can focus on JavaScript for blockchain development and use shortcuts to achieve the smart contract-driven features you want in your dapp. Moralis, the ultimate Web3 development platform, also provides you with tutorials and already written contracts for various use cases. Check the Moralis Web3 YouTube channel, Moralis’ blog, and Moralis’ documentation to access these resources.
+
+# Smart Contract Characteristics:
+
+A smart contract relies upon information obtained from an internal source i.e. databases/ledgers of involved parties and/or external sources, where the required input is fed with the help of oracles to execute it on the digital platforms.
+
+The key stated characteristics of a smart contract are:
+
+    Self-verifying
+    Self-executing
+    Tamperproof
+
