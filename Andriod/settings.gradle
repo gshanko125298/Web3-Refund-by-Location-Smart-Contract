@@ -1,0 +1,13 @@
+include ':app'
+rootProject.name='My Application'
+include ':app'
+
+def localPropertiesFile = new File(rootProject.projectDir, "local.properties")
+def properties = new Properties()
+
+assert localPropertiesFile.exists()
+localPropertiesFile.withReader("UTF-8") { reader -> properties.load(reader) }
+
+def reactSdkPath = properties.getProperty("react.sdk")
+assert reactSdkPath != null, "react.sdk not set in local.properties"
+apply from: "$reactSdkPath/packages/react_tools/gradle/app_plugin_loader.gradle"
