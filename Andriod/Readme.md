@@ -1,5 +1,6 @@
 # Android
-https://developer.android.com/topic/libraries/architecture
+Android Studio will warn you if you attempt to launch your project to a device that has an error or a warning associated with it. Iconography and stylistic changes differentiate between errors (device selections that result in a broken configuration) and warnings (device selections that may result in unexpected behavior but are still runnable)
+
 # Android Emulator
 The Android Emulator simulates Android devices on your computer so that you can test your application on a variety of devices and Android API levels without needing to have each physical device. The emulator offers these advantages:
 
