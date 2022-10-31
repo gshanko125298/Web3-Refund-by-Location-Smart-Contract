@@ -15,3 +15,5 @@ which is in binary format
 Generation: If you are using tooling like Hardhart/Truffle or an IDE like Remix, the contract ABI is automatically generated for you.
 You can also manually create the ABI by using the Solidity Compiler NPM package. After installing the package, you can run the ‘solcjs contractname.sol --abi’ command in a terminal. 
 This will generate an .abi file if performed successfully. 
+# Executing
+As ABI operates as the interpreter between the EVM bytecode and Javascript of a website,  it is needed when you want to execute any functions of a smart contract. In addition to the ABI, the contract's address on the blockchain is required. Here is a small Javascript code snippet to show how this is done:
